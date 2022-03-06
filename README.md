@@ -6,7 +6,7 @@ A passionate Full-Stack engineer & Tech Enthusiast who loves to solve real-world
 
 💡 &nbsp; I like to explore new technologies and build software solutions.\
 🎓 &nbsp;Computer science graduate.\
-🌱 &nbsp;I'm on track for learning more about Systems Design and Cloud Architecture.
+🌱 &nbsp;I'm on track for learning more about Systems Design and DevOps.
 💻 &nbsp;I'm always open to collaborate on innovative ideas.
 
 ## 🛠&nbsp;Tech Stack
